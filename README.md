@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spotify Accounts Authentication Examples
 
 This project contains basic demos showing the different OAuth 2.0 flows for [authenticating against the Spotify Web API](https://developer.spotify.com/web-api/authorization-guide/).
@@ -33,3 +34,6 @@ Go to [My Applications on Spotify Developer](https://developer.spotify.com/my-ap
 * http://localhost:8888/callback
 
 Once you have created your app, replace the `client_id`, `redirect_uri` and `client_secret` in the examples with the ones you get from My Applications.
+=======
+# Playlist-Request
+>>>>>>> 71ba0431829996451992b11b8e3ddfaf4ac95ef2
